@@ -1,0 +1,35 @@
+.perfil{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+}
+.perfil img{
+    height: 30%;
+    width: 30%;
+    border-radius: 100%;
+    margin-right: 0.8rem;
+    border: black solid 2px;
+}
+.perfil div{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    height: 30%;
+    gap: 0.5rem;
+    text-align: center;
+    line-break:initial;
+}
+.perfil div h3{
+    font-size: 1rem;
+    white-space: nowrap;
+    font-weight: 500;
+    width: 100%;
+}
+.perfil div span{
+    font-size: 0.9rem;
+    width: 100%;
+    font-weight: 400;
+
+    white-space: nowrap;
+}
