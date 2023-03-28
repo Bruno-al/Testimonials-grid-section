@@ -1,0 +1,88 @@
+.user h2{
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+.user p{
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+
+/* _______________________________________________ */
+
+.daniel{
+    background-color: #733fc8;
+    color: #fff5ff;
+}
+.daniel .perfil img{
+    border: solid #a274ef 3px;
+}
+.daniel .perfil div h3{
+    color: #;
+}
+.daniel .perfil div span{
+    color: transparent;
+}
+.daniel p{
+    color: #b59cd2;
+}
+
+/* _______________________________________________ */
+
+.jonathan{
+    background-color: #49556b;
+}
+.jonathan .perfil img{
+    border: solid transparent 2px;
+}
+.jonathan h2{
+    color: #feffff;
+}
+.jonathan p{
+    color: #c7ced7;
+}
+
+/* _______________________________________________ */
+
+.jeanette{
+
+}
+.jeanette .perfil img{
+    border: solid #a274ef 3px;
+}
+.jeanette h2{
+    color: #;
+}
+.jeanette p{
+    color: #;
+}
+
+/* _______________________________________________ */
+
+.patrick{
+
+}
+.patrick .perfil img{
+    border: solid #a274ef 3px;
+}
+.patrick h2{
+    color: #;
+}
+.patrick p{
+    color: #;
+}
+
+/* _______________________________________________ */
+
+.kira{
+
+}
+.kira .perfil img{
+    border: solid #a274ef 3px;
+}
+.kira h2{
+    color: #;
+}
+.kira p{
+    color: #;
+}
