@@ -18,10 +18,10 @@
     border: solid #a274ef 3px;
 }
 .daniel .perfil div h3{
-    color: #;
+    color: #fff7ff;
 }
 .daniel .perfil div span{
-    color: transparent;
+    color: #c19ff6;
 }
 .daniel p{
     color: #b59cd2;
@@ -35,54 +35,78 @@
 .jonathan .perfil img{
     border: solid transparent 2px;
 }
+.jonathan .perfil h3{
+   color: #feffff; 
+}
+.jonathan .perfil span{
+    color:#8f98a9  ;
+}
 .jonathan h2{
-    color: #feffff;
+    color: #ffffff;
 }
 .jonathan p{
-    color: #c7ced7;
+    color: #ced6e4;
 }
 
 /* _______________________________________________ */
 
 .jeanette{
-
+    background-color: #ffffff;
 }
 .jeanette .perfil img{
-    border: solid #a274ef 3px;
+    border: solid transparent 2px;
+}
+.jeanette .perfil h3{
+    color: #505561;
+}
+.jeanette .perfil span{
+    color: #9ea2a9;
 }
 .jeanette h2{
-    color: #;
+    color: #49556d;
 }
 .jeanette p{
-    color: #;
+    color: #808792;
 }
 
 /* _______________________________________________ */
 
 .patrick{
-
+    background-color: #18202d;
 }
 .patrick .perfil img{
-    border: solid #a274ef 3px;
+    border: solid #7040be 3px;
+}
+.patrick .perfil h3{
+    color: #faffff;
+}
+.patrick .perfil span{
+    color: #878c98;
 }
 .patrick h2{
-    color: #;
+    color: #eaf0f5;
 }
 .patrick p{
-    color: #;
+    color: #b8bdc2;
 }
 
 /* _______________________________________________ */
 
 .kira{
-
+    background-color: #ffffff;
 }
 .kira .perfil img{
-    border: solid #a274ef 3px;
+    border: solid transparent 2px;
+}
+.kira .perfil h3{
+    color: #505561;
+}
+.kira .perfil span{
+    color: #9ea2a9;
 }
 .kira h2{
-    color: #;
+    color: #49556d;
 }
 .kira p{
-    color: #;
+    color: #808792;
 }
