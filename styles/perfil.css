@@ -1,8 +1,8 @@
 .perfil{
     display: flex;
-    justify-content: center;
+    justify-content: start;
     align-items: center;
-    width: 40%;
+    width: 2rem;
 }
 .perfil img{
     height: 2.5rem;
@@ -17,7 +17,7 @@
     width: 50%;
     height: 30%;
     gap: 0.5rem;
-    text-align: center;
+    text-align: start;
     line-break:initial;
 }
 .perfil div h3{

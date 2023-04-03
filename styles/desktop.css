@@ -3,6 +3,29 @@
         
     }
     section{
+        padding: 1rem;
+        background-color: aqua;
+        display: flex;
+        flex-direction: row;
+        gap: 10rem;
+    }
+    .esquerda{
+        display: grid;
+        width: 50%;
+        gap: 10px;
         
+    }
+    .esquerda > div{
+        width: 50%;
+        height: 50%;
+        gap: 0px;
+        margin: 0;
+    }
+    .user{
+       
+    }
+    .kira{
+        height: 100%;
+        width: 20%;
     }
 }
