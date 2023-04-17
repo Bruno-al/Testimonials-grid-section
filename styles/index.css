@@ -12,7 +12,6 @@ section{
 }
 section > div{
     width: 80%;
-    
     padding: 1.5rem;
     border-radius: 8px;
     display: flex;
@@ -22,13 +21,13 @@ section > div{
 .esquerda{
     display: flex;
     align-items: center;
+    
 }
 .esquerda > div{
     width: 100%;
-    
     padding: 1.5rem;
     border-radius: 8px;
     display: flex;
     flex-direction: column;
-    gap: 1rem;
+    
 }

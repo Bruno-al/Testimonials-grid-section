@@ -1,8 +1,7 @@
 .perfil{
     display: flex;
     justify-content: start;
-    align-items: center;
-    width: 2rem;
+    width: 100%;
 }
 .perfil img{
     height: 2.5rem;

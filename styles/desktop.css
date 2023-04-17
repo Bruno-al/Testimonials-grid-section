@@ -1,31 +1,65 @@
 @media(min-width: 700px){
     body{
-        
+        padding-top: 2rem;
+        width: 100%;
+        height: 100%;
     }
     section{
-        padding: 1rem;
-        background-color: aqua;
+        width: 100%;
+        height: 100%;
+        padding: 2rem;
         display: flex;
         flex-direction: row;
-        gap: 10rem;
-    }
-    .esquerda{
-        display: grid;
-        width: 50%;
-        gap: 10px;
+        justify-content: center;
         
     }
+    .esquerda{
+        width: 80%;
+        display: grid;
+        grid-template-columns: repeat(4, 2fr);
+        grid-template-rows: repeat(2, 2fr);
+        gap: 20px;
+        
+    }
+
+    .daniel{
+        grid-column: span 2;
+    }
+    .jonathan{
+        grid-column: span 1 ;
+    }
+
+    }
+    .jeanette{
+        grid-column: span 1;
+    }
+    .patrick{
+        grid-column: span 2;
+        
+    }
+    .kira{
+        grid-row: span 4;
+        grid-column: span 1;
+        
+    }
+
+
+
+
+
     .esquerda > div{
-        width: 50%;
-        height: 50%;
+        width: 80%;
+        height: 80%;
         gap: 0px;
         margin: 0;
     }
     .user{
-       
+        
     }
-    .kira{
-        height: 100%;
-        width: 20%;
+    .user h2{
+        margin: 0.5rem 0 0 0 ;
     }
-}
+    .user p{
+        
+    }
+    

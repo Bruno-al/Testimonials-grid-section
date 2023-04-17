@@ -1,3 +1,6 @@
+.user{
+   
+}
 .user h2{
     font-size: 80%;
     font-weight: 500;
@@ -15,7 +18,6 @@
 .daniel{
     background-color: #733fc8;
     color: #fff5ff;
-    grid-area: "daniel";
 }
 .daniel .perfil img{
     border: solid #a274ef 3px;
@@ -79,6 +81,7 @@
 .patrick{
     background-color: #18202d;
     grid-area: "patrick";
+
 }
 .patrick .perfil img{
     border: solid #7040be 3px;
@@ -100,7 +103,7 @@
 
 .kira{
     background-color: #ffffff;
-    grid-area: "patrick";
+    grid-area: "kira";
 }
 .kira .perfil img{
     border: solid transparent 2px;
